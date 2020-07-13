@@ -10,13 +10,15 @@
   
 - **Supervised :**  We have prior knowledge of what the values of our sample should be. The data is usually labelled. Supervised learning is typically done in the context of classification, when we want to map input to output labels, or regression, when we want to map input to a continuous output. Common algorithms of supervised learning are :
 
-  - Logistic regression :
+  - Linear regression :
+  
+  - KNN (K Nearest Neighbours)
  
   - Naive Bayes :
  
   - Support Vector Machine :
  
-  - Random Fores :
+  - Random Forest :
  
   - Artificial Neural Network :
  
